@@ -4,12 +4,13 @@ public class TesterCar {
 
         car newCar=new car();
 
-        newCar.name="Feerarii";
-        newCar.color="Red";
-        newCar.doors=3;
-        newCar.engineCapacity="60000cc";
+        newCar.name="Lamboo";
+        newCar.engineCapacity="657348cc";
+        newCar.doors=7;
+        newCar.model="SST";
 
-        System.out.println(newCar.color+" "+newCar.name);
+        System.out.println(newCar.name+"-"+newCar.model);
+
 
 
 
